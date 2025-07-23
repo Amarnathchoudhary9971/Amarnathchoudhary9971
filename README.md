@@ -35,7 +35,7 @@ Tools:       Git, GitHub, Postman, AWS, MySQL, Cloudflare
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amarnath%20Choudhary-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/amarnathchoudhary/)
-[![Portfolio](https://img.shields.io/badge/Website-Amarchy.com-121212?style=for-the-badge\&logo=vercel)](http://127.0.0.1:3000/New%20folder/index.html)
+[![Portfolio](https://img.shields.io/badge/Website-Amarchy.com-121212?style=for-the-badge\&logo=vercel)](https://amarnathchoudhary9971.github.io/Portfolio-Amar/)
 [![Email](https://img.shields.io/badge/Gmail-amar8920844395%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:amar8920844395@gmail.com)
 
 ---
